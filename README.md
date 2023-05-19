@@ -142,7 +142,7 @@ for bars in ax.containers:
 
 
     
-![png](output_10_0.png)
+![png](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/blob/main/graphs/output_10_0.png)
     
 
 
