@@ -140,9 +140,9 @@ for bars in ax.containers:
     ax.bar_label(bars)
 ```
 
+![output_10_0](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/2d149f27-2986-4abd-8b3f-a41fd55c4e5f)
 
-    
-![png](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/blob/main/graphs/output_10_0.png)
+
     
 
 
@@ -160,9 +160,9 @@ sns.barplot(x='Gender',y='Amount',data=Sales_gen)
 
 
 
+![output_11_1](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/21867fcb-3123-4621-9af6-97645d1051f1)
 
-    
-![png](output_11_1.png)
+
     
 
 
@@ -178,9 +178,9 @@ for bars in ax.containers:
     ax.bar_label(bars)
 ```
 
+![output_14_0](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/379490ea-a6b4-4ca1-bf76-b82f6d143125)
 
-    
-![png](output_14_0.png)
+
     
 
 
@@ -200,9 +200,9 @@ sns.barplot(x="Age Group",y="Amount",data=Sales_age)
 
 
 
+![output_16_1](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/958c3afc-b0a3-443c-8f7c-ec1eec300e63)
 
-    
-![png](output_16_1.png)
+
     
 
 
@@ -230,8 +230,8 @@ sns.barplot(data=Sales_state,x='State',y= 'Orders')
 
 
     
-![png](output_20_1.png)
-    
+![output_20_1](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/093a7382-490c-4f2b-8829-d6b0e6857e7e)
+
 
 
 ### total amount/sales from top 5 states
@@ -250,9 +250,8 @@ sns.barplot(data=Sales_state,x='State',y='Amount')
 
 
 
+![output_22_1](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/d100b600-a152-40dc-b6cd-d276983194d7)
 
-    
-![png](output_22_1.png)
     
 
 
@@ -270,8 +269,8 @@ for bars in ax.containers:
 
 
     
-![png](output_25_0.png)
-    
+![output_25_0](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/acc6cb65-1d36-49d6-bcef-93eb2699966d)
+
 
 
 
@@ -288,9 +287,9 @@ sns.barplot(data=Sales,x='Marital_Status',y='Amount',hue='Gender')
 
 
 
+![output_26_1](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/581d152d-4fca-4fd6-ac6e-1b797f076bc3)
 
-    
-![png](output_26_1.png)
+
     
 
 
@@ -309,8 +308,8 @@ for bars in ax.containers:
 
 
     
-![png](output_29_0.png)
-    
+![output_29_0](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/d992b294-9f63-4db3-82d6-08bb1d706e9c)
+
 
 
 
@@ -329,7 +328,8 @@ sns.barplot(data=Sales_state,x='Occupation',y='Amount')
 
 
     
-![png](output_30_1.png)
+![output_30_1](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/30b658ff-b822-45a1-8e80-ea0ae6f90648)
+
     
 
 
@@ -347,7 +347,8 @@ for bars in ax.containers:
 
 
     
-![png](output_33_0.png)
+![output_33_0](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/f516e355-83b3-4864-b9ed-1ddea2cc3426)
+
     
 
 
@@ -367,7 +368,8 @@ sns.barplot(data=Sales_state,x='Product_Category',y='Amount')
 
 
     
-![png](output_34_1.png)
+![output_34_1](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/de4ba1b8-cd9b-4fc9-bdda-485eb73c47f7)
+
     
 
 
@@ -389,7 +391,8 @@ sns.barplot(data=Sales_state,x='Product_ID',y='Orders')
 
 
     
-![png](output_36_1.png)
+![output_36_1](https://github.com/VPMANOJKUMAR/Diwali-Sales-Analysis-using-python/assets/124855537/cc1826aa-1b7f-48ec-bca6-78de40c8b7bc)
+
     
 
 
